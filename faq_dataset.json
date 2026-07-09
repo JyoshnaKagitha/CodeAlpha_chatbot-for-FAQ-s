@@ -1,150 +1,122 @@
 [
   {
-    "question": "Hello",
-    "answer": "Hello! How can I help you today?"
+    "question": "What is the best time to travel?",
+    "answer": "The best time depends on your destination, weather preferences, and budget."
   },
   {
-    "question": "Hi",
-    "answer": "Hi there! What can I do for you?"
+    "question": "How can I save money while traveling?",
+    "answer": "Book flights early, travel during the off-season, compare hotel prices, and use public transportation."
   },
   {
-    "question": "How are you?",
-    "answer": "I'm doing great! Thanks for asking. How can I assist you?"
+    "question": "What should I pack for a trip?",
+    "answer": "Pack clothes suitable for the weather, travel documents, medications, chargers, toiletries, and essential accessories."
   },
   {
-    "question": "What is your name?",
-    "answer": "I'm an AI chatbot created to help answer your questions."
+    "question": "Do I need travel insurance?",
+    "answer": "Travel insurance is recommended because it can cover medical emergencies, trip cancellations, and lost luggage."
   },
   {
-    "question": "Who created you?",
-    "answer": "I was created by developers using artificial intelligence technologies."
+    "question": "How early should I arrive at the airport?",
+    "answer": "Arrive at least 2 hours before domestic flights and 3 hours before international flights."
   },
   {
-    "question": "What can you do?",
-    "answer": "I can answer questions, provide information, solve basic problems, and assist with various tasks."
+    "question": "What documents are required for international travel?",
+    "answer": "A valid passport, visa if required, travel tickets, and identification documents."
   },
   {
-    "question": "What is AI?",
-    "answer": "Artificial Intelligence (AI) is the simulation of human intelligence in machines that can learn, reason, and solve problems."
+    "question": "How can I find affordable hotels?",
+    "answer": "Compare prices across booking platforms, read reviews, and book in advance."
   },
   {
-    "question": "What is Machine Learning?",
-    "answer": "Machine Learning is a branch of AI that enables computers to learn from data without being explicitly programmed."
+    "question": "What is a boarding pass?",
+    "answer": "A boarding pass is a document that allows you to board your flight."
   },
   {
-    "question": "What is Python?",
-    "answer": "Python is a popular programming language known for its simplicity and versatility."
+    "question": "Can I carry liquids on a flight?",
+    "answer": "Yes, but carry-on liquids must usually be in containers of 100 ml or less, following airline regulations."
   },
   {
-    "question": "What is Java?",
-    "answer": "Java is an object-oriented programming language widely used for web, desktop, and mobile applications."
+    "question": "How much luggage can I take?",
+    "answer": "Luggage allowances vary depending on the airline and ticket type."
   },
   {
-    "question": "What is HTML?",
-    "answer": "HTML stands for HyperText Markup Language and is used to create web pages."
+    "question": "What is checked baggage?",
+    "answer": "Checked baggage is luggage stored in the aircraft's cargo hold during the flight."
   },
   {
-    "question": "What is CSS?",
-    "answer": "CSS stands for Cascading Style Sheets and is used to style HTML web pages."
+    "question": "What is cabin baggage?",
+    "answer": "Cabin baggage is the luggage you can carry with you inside the aircraft."
   },
   {
-    "question": "What is JavaScript?",
-    "answer": "JavaScript is a programming language used to make websites interactive."
+    "question": "How can I stay safe while traveling?",
+    "answer": "Keep valuables secure, stay aware of your surroundings, and follow local laws and safety guidelines."
   },
   {
-    "question": "What is Git?",
-    "answer": "Git is a distributed version control system used to track changes in source code."
+    "question": "What should I do if I lose my passport?",
+    "answer": "Report it immediately to the local police and contact your country's embassy or consulate."
   },
   {
-    "question": "What is GitHub?",
-    "answer": "GitHub is a cloud platform that hosts Git repositories for collaboration and version control."
+    "question": "Can I travel without internet access?",
+    "answer": "Yes. Download maps, tickets, and important information before your trip."
   },
   {
-    "question": "What is cloud computing?",
-    "answer": "Cloud computing provides computing resources such as servers and storage over the internet."
+    "question": "How can I avoid jet lag?",
+    "answer": "Stay hydrated, adjust your sleep schedule gradually, and get sunlight after arrival."
   },
   {
-    "question": "What is AWS?",
-    "answer": "Amazon Web Services (AWS) is a cloud computing platform offering various services like storage, databases, and virtual servers."
+    "question": "What is the best way to exchange currency?",
+    "answer": "Use authorized banks, exchange centers, or international debit and credit cards."
   },
   {
-    "question": "What is cybersecurity?",
-    "answer": "Cybersecurity is the practice of protecting systems, networks, and data from cyber threats."
+    "question": "Should I carry cash while traveling?",
+    "answer": "Carry a small amount of local currency along with debit or credit cards."
   },
   {
-    "question": "What is a database?",
-    "answer": "A database is an organized collection of data that can be stored, managed, and retrieved efficiently."
+    "question": "How do I choose a travel destination?",
+    "answer": "Consider your budget, interests, weather, available time, and travel restrictions."
   },
   {
-    "question": "What is SQL?",
-    "answer": "SQL stands for Structured Query Language and is used to manage relational databases."
+    "question": "What is sustainable tourism?",
+    "answer": "Sustainable tourism minimizes environmental impact while supporting local communities and cultures."
   },
   {
-    "question": "What is an API?",
-    "answer": "An API (Application Programming Interface) allows different software applications to communicate with each other."
+    "question": "What are travel essentials?",
+    "answer": "Passport, tickets, identification, wallet, phone charger, medications, and emergency contacts."
   },
   {
-    "question": "What is JSON?",
-    "answer": "JSON (JavaScript Object Notation) is a lightweight format used to store and exchange data."
+    "question": "How can I keep my belongings safe?",
+    "answer": "Use anti-theft bags, avoid displaying valuables, and lock your luggage."
   },
   {
-    "question": "What is a chatbot?",
-    "answer": "A chatbot is a software application that interacts with users through text or voice conversations."
+    "question": "What should I do during a flight?",
+    "answer": "Stay hydrated, move around occasionally, follow crew instructions, and wear comfortable clothing."
   },
   {
-    "question": "What is data science?",
-    "answer": "Data science involves extracting insights from data using statistics, programming, and machine learning."
+    "question": "How can I reduce travel expenses?",
+    "answer": "Travel during the off-season, use public transport, and book accommodations in advance."
   },
   {
-    "question": "What is deep learning?",
-    "answer": "Deep learning is a subset of machine learning that uses neural networks with multiple layers."
+    "question": "What is a visa?",
+    "answer": "A visa is an official document that allows you to enter, stay, or leave a country for a specific purpose."
   },
   {
-    "question": "What is the Internet?",
-    "answer": "The Internet is a global network that connects millions of computers and devices."
+    "question": "Can I use my phone abroad?",
+    "answer": "Yes, through international roaming or by purchasing a local SIM card."
   },
   {
-    "question": "What is an operating system?",
-    "answer": "An operating system manages computer hardware and software resources and provides services for applications."
+    "question": "How can I respect local culture?",
+    "answer": "Learn local customs, dress appropriately, and be respectful of traditions and laws."
   },
   {
-    "question": "What is Linux?",
-    "answer": "Linux is a free and open-source operating system widely used for servers and development."
+    "question": "What should I do in a travel emergency?",
+    "answer": "Contact local emergency services, your embassy, or your travel insurance provider."
   },
   {
-    "question": "What is Windows?",
-    "answer": "Windows is an operating system developed by Microsoft for personal computers."
+    "question": "Why is travel planning important?",
+    "answer": "Planning helps manage your budget, schedule, accommodations, and activities efficiently."
   },
   {
-    "question": "What is computer programming?",
-    "answer": "Programming is the process of writing instructions that tell a computer how to perform tasks."
-  },
-  {
-    "question": "What is the capital of India?",
-    "answer": "The capital of India is New Delhi."
-  },
-  {
-    "question": "What is the largest planet?",
-    "answer": "Jupiter is the largest planet in our Solar System."
-  },
-  {
-    "question": "Who invented the telephone?",
-    "answer": "Alexander Graham Bell is widely credited with inventing the practical telephone."
-  },
-  {
-    "question": "What is the speed of light?",
-    "answer": "The speed of light in a vacuum is approximately 299,792 kilometers per second."
-  },
-  {
-    "question": "What time is it?",
-    "answer": "I cannot access the current time, but your device can display it."
-  },
-  {
-    "question": "Thank you",
-    "answer": "You're welcome! Happy to help."
-  },
-  {
-    "question": "Bye",
-    "answer": "Goodbye! Have a wonderful day."
+    "question": "What makes a trip enjoyable?",
+    "answer": "Good planning, staying flexible, respecting local culture, and focusing on memorable experiences make a trip enjoyable."
   }
 ]
